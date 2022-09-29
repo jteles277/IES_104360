@@ -1,4 +1,4 @@
-ies\teles\WeatherStarter.class
-ies\teles\IpmaCityForecast.class
-ies\teles\IpmaService.class
-ies\teles\CityForecast.class
+ies/teles/APICaller.class
+ies/teles/IpmaService.class
+ies/teles/IpmaCityForecast.class
+ies/teles/CityForecast.class

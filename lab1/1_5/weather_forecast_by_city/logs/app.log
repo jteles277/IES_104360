@@ -3,3 +3,28 @@
 [WARN ] 2022-09-29 01:07:30.343 [ies.teles.WeatherStarter.main()] WeatherStarter - Invalid Code Given
 [INFO ] 2022-09-29 01:07:30.591 [ies.teles.WeatherStarter.main()] WeatherStarter -  Got a retrofit instance 
 [INFO ] 2022-09-29 01:07:30.636 [ies.teles.WeatherStarter.main()] WeatherStarter -  Got ForecastForACity with code: 1010500
+[WARN ] 2022-09-29 09:18:35.274 [ies.teles.WeatherStarter.main()] WeatherStarter - Invalid Code Given
+[INFO ] 2022-09-29 09:18:35.751 [ies.teles.WeatherStarter.main()] WeatherStarter -  Got a retrofit instance 
+[INFO ] 2022-09-29 09:18:35.836 [ies.teles.WeatherStarter.main()] WeatherStarter -  Got ForecastForACity with code: 1010500
+[WARN ] 2022-09-29 09:37:57.652 [ies.teles.WeatherStarter.main()] WeatherStarter - Invalid Code Given
+[INFO ] 2022-09-29 09:37:57.905 [ies.teles.WeatherStarter.main()] WeatherStarter -  Got a retrofit instance 
+[INFO ] 2022-09-29 09:37:57.961 [ies.teles.WeatherStarter.main()] WeatherStarter -  Got ForecastForACity with code: 1010500
+[WARN ] 2022-09-29 13:57:52.986 [ies.teles.WeatherStarter.main()] WeatherStarter - Invalid Code Given
+[WARN ] 2022-09-29 13:59:23.362 [ies.teles.WeatherStarter.main()] WeatherStarter - Invalid Code Given
+[WARN ] 2022-09-29 14:00:52.220 [ies.teles.WeatherStarter.main()] WeatherStarter - Invalid Code Given
+[WARN ] 2022-09-29 14:02:04.273 [ies.teles.WeatherStarter.main()] WeatherStarter - Invalid Code Given
+[WARN ] 2022-09-29 14:03:12.885 [ies.teles.WeatherStarter.main()] WeatherStarter - Invalid Code Given
+[WARN ] 2022-09-29 14:07:53.721 [ies.teles.WeatherStarter.main()] WeatherStarter - Invalid Code Given
+[WARN ] 2022-09-29 14:15:27.462 [ies.teles.WeatherStarter.main()] WeatherStarter - Invalid Code Given
+[INFO ] 2022-09-29 14:40:01.130 [ies.teles.WeatherStarter.main()] Connection_Point -  Got a retrofit instance 
+[INFO ] 2022-09-29 14:40:01.187 [ies.teles.WeatherStarter.main()] Connection_Point -  Got ForecastForACity with code: 10
+[ERROR] 2022-09-29 14:40:01.288 [ies.teles.WeatherStarter.main()] Connection_Point - No results for this request!
+[INFO ] 2022-09-29 14:52:05.654 [ies.teles.WeatherStarter.main()] Connection_Point -  Got a retrofit instance 
+[INFO ] 2022-09-29 14:52:05.705 [ies.teles.WeatherStarter.main()] Connection_Point -  Got ForecastForACity with code: 10
+[ERROR] 2022-09-29 14:52:05.816 [ies.teles.WeatherStarter.main()] Connection_Point - No results for this request!
+[WARN ] 2022-09-29 15:29:14.204 [ies.teles.WeatherStarter.main()] WeatherStarter - Invalid Code Given
+[WARN ] 2022-09-29 15:33:03.506 [ies.teles.WeatherStarter.main()] WeatherStarter - Invalid Code Given
+[WARN ] 2022-09-29 15:34:47.469 [ies.teles.WeatherStarter.main()] WeatherStarter - Invalid Code Given
+[WARN ] 2022-09-29 15:36:21.302 [ies.teles.WeatherStarter.main()] WeatherStarter - Invalid Code Given
+[WARN ] 2022-09-29 15:38:36.644 [ies.teles.WeatherStarter.main()] WeatherStarter - Invalid Code Given
+[WARN ] 2022-09-29 15:43:01.656 [ies.teles.WeatherStarter.main()] WeatherStarter - Invalid Code Given
