@@ -1,0 +1,5 @@
+[WARN ] 2022-09-29 01:05:08.509 [ies.teles.WeatherStarter.main()] WeatherStarter - Invalid Code Given
+[INFO ] 2022-09-29 01:05:08.713 [ies.teles.WeatherStarter.main()] WeatherStarter -  Got a retrofit instance 
+[WARN ] 2022-09-29 01:07:30.343 [ies.teles.WeatherStarter.main()] WeatherStarter - Invalid Code Given
+[INFO ] 2022-09-29 01:07:30.591 [ies.teles.WeatherStarter.main()] WeatherStarter -  Got a retrofit instance 
+[INFO ] 2022-09-29 01:07:30.636 [ies.teles.WeatherStarter.main()] WeatherStarter -  Got ForecastForACity with code: 1010500
