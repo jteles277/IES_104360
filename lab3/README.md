@@ -33,25 +33,29 @@ ___
 ___
 ## Review Questions
 
-**A. Explain the differences between the RestControllerand Controller components used in different parts of this lab.**
+**A. Explain the differences between the RestController and Controller components used in different parts of this lab.**
 
-> ..
+> As the name might suggest **@RestController is a specialized version of @Controller** (@Controler is a specialized version of @Component), and so the diferences are in that specification
+> RestController is used in RESTful Web services, and it’s the combination of @Controller and @ResponseBody annotation.
     
-**B. Create a visualization of the Spring Boot layers (UML diagramor similar), displaying the key abstractions in the solutionof 3.3, in particular: entities, repositories, servicesand REST controllers.Describe the role of the elements modeled in the diagram.**
+**B. Create a visualization of the Spring Boot layers (UML diagramor similar), displaying the key abstractions in the solution of 3.3, in particular: entities, repositories, services and REST controllers. Describe the role of the elements modeled in the diagram.**
 
 > ..
 
 **C. Explain the annotations @Table, @Colum, @Id found in the Employee entity.**
 
-> ..
+> This annotations inform spring what we want that entity to be repersented in our database with (JPA Data)
+>* @Table can customize the mapping of the database table using the name, schema, and catalog attributes
+>* @Column is the same as the last one but for the columns
+>* @Id is used to specify a primary key attribute for enteties, JPA and Hibernate require you to do so
 
 **D. Explain the use of the annotation @AutoWired (in the Rest Controller class).**
 
-> ..
+> The @Autowired annotation provides more fine-grained control over where and how autowiring should be accomplished. The @Autowired annotation can be used to autowire bean on the setter method just like @Required annotation, constructor, a property or methods with arbitrary names and/or multiple arguments.
 
 
 ___
 #### About the Project 
 
-* need to use spring boot
+* We need to use spring boot
 ___
