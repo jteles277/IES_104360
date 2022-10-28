@@ -1,5 +1,5 @@
 ___
-## 3.2 b)
+## 3.1 b)
 
 1. The “UserController” class gets an instance of “userRepository” through its constructor; how is this new repository instantiated?
 
